@@ -15,7 +15,7 @@ Die Daten können verwendet werden um nette Graphen oder auch Alarme zu generier
 Hardware:
 wemos d1 min pro 
 MAX485 
-TL7800
+TL7805
 
 Software:
 Arduiono Programm (C++) esp-kwb-mqttlogger. Dieses liest die Daten kontinuierlich über den RS485 des Kessels ein 
